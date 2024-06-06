@@ -1,0 +1,7 @@
+F:\C# Programming\DuplicateNumberFind\DuplicateNumberFind\bin\Debug\DuplicateNumberFind.exe.config
+F:\C# Programming\DuplicateNumberFind\DuplicateNumberFind\bin\Debug\DuplicateNumberFind.exe
+F:\C# Programming\DuplicateNumberFind\DuplicateNumberFind\bin\Debug\DuplicateNumberFind.pdb
+F:\C# Programming\DuplicateNumberFind\DuplicateNumberFind\obj\Debug\DuplicateNumberFind.csproj.AssemblyReference.cache
+F:\C# Programming\DuplicateNumberFind\DuplicateNumberFind\obj\Debug\DuplicateNumberFind.csproj.CoreCompileInputs.cache
+F:\C# Programming\DuplicateNumberFind\DuplicateNumberFind\obj\Debug\DuplicateNumberFind.exe
+F:\C# Programming\DuplicateNumberFind\DuplicateNumberFind\obj\Debug\DuplicateNumberFind.pdb
